@@ -15,9 +15,9 @@ Total Number of Unique users are 226
 Pyspark,Spark SQL, Matplotlib
 
 ### Techniques Used
-1.Data Cleaning \
-2.Feature Engineering \
-3.Model Building 
+1. Data Cleaning \
+2. Feature Engineering \
+3. Model Building 
 
 ### Machine Learning Techniques used
 1. Logistic Regression 
